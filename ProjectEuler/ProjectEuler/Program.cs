@@ -6,7 +6,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Solve solve = new Problem11();
+            Solve solve = new Problem26();
 
             solve.Operate();
         }
